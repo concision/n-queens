@@ -6,12 +6,12 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-tensorflow = "*"
 numpy = "*"
 pandas = "*"
 sklearn = "*"
 jupyter = "*"
 matplotlib = "*"
+deap = "*"
 
 [requires]
 python_version = "3.8"
