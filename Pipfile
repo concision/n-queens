@@ -8,7 +8,6 @@ verify_ssl = true
 [packages]
 numpy = "*"
 pandas = "*"
-sklearn = "*"
 jupyter = "*"
 matplotlib = "*"
 deap = "*"
