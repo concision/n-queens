@@ -1,5 +1,5 @@
 <h1 align="center">
-    Solving the N-Queens Problem with Evolutionary Algorithms
+    Solving the N-Queens Problem with DEAP
 </h1>
 
 [![repository license](https://img.shields.io/github/license/concision/n-queens?style=for-the-badge)](https://github.com/concision/n-queens/blob/master/LICENSE)
